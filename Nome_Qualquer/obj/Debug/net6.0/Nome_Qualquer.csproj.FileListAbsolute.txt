@@ -1,0 +1,15 @@
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\bin\Debug\net6.0\Nome_Qualquer.exe
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\bin\Debug\net6.0\Nome_Qualquer.deps.json
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\bin\Debug\net6.0\Nome_Qualquer.runtimeconfig.json
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\bin\Debug\net6.0\Nome_Qualquer.dll
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\bin\Debug\net6.0\Nome_Qualquer.pdb
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\obj\Debug\net6.0\Nome_Qualquer.csproj.AssemblyReference.cache
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\obj\Debug\net6.0\Nome_Qualquer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\obj\Debug\net6.0\Nome_Qualquer.AssemblyInfoInputs.cache
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\obj\Debug\net6.0\Nome_Qualquer.AssemblyInfo.cs
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\obj\Debug\net6.0\Nome_Qualquer.csproj.CoreCompileInputs.cache
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\obj\Debug\net6.0\Nome_Qualquer.dll
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\obj\Debug\net6.0\refint\Nome_Qualquer.dll
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\obj\Debug\net6.0\Nome_Qualquer.pdb
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\obj\Debug\net6.0\Nome_Qualquer.genruntimeconfig.cache
+C:\Users\2020102011035-9\Desktop\Nome\Nome_Qualquer\Nome_Qualquer\obj\Debug\net6.0\ref\Nome_Qualquer.dll
