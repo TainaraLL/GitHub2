@@ -12,6 +12,9 @@ class Program
 
         double resultado = num + num2;
 
+
+        if (resultado == 0) { }
+            
         Console.WriteLine($"O resultado da multiplicação é {resultado}");
 
         Console.ReadKey();
